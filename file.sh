@@ -1,4 +1,4 @@
-#!bin/bash
+!bin/bash
 #this is just practice:
 
 #to show top 10 processes running
@@ -31,7 +31,7 @@ echo "$# total number of arguments"
 echo "$1"
 
 #taking values 
-var1 = "$2"
+var1="$2"
 echo "$2"
 
 : '

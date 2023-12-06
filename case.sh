@@ -27,7 +27,6 @@ case $state in
     "Bihar")
             echo "capital is patna";;
      *)
-            echo "unknown state and enter case sensitive state name"
-    ;;
+            echo "unknown state and enter case sensitive state name";;
 esac
 
